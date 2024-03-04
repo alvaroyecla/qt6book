@@ -2,7 +2,7 @@
 
 The Qt Quick 3D module takes the power of QML to the third dimension. Using Qt Quick 3D you can create three dimensional scenes and use the property bindings, state management, animations, and more from QML to make the scene interactive. You can even mix 2D and 3D contents in various way to create a mixed environment.
 
-Just as Qt provides an abstraction for 2D graphics, Qt Quick 3D relies on an abstraction layer for the various rendering APIs supported. In order to use Qt Quick 3D it is recommended to use a platform provding at least one of the following APIs:
+Just as Qt provides an abstraction for 2D graphics, Qt Quick 3D relies on an abstraction layer for the various rendering APIs supported. In order to use Qt Quick 3D it is recommended to use a platform providing at least one of the following APIs:
 
 - OpenGL 3.3+ (support from 3.0)
 - OpenGL ES 3.0+ (limited support for OpenGL ES 2)
